@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/weijiansh1/wanderlace.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Emilygit085/Yuanlv.git
